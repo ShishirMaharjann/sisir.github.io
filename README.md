@@ -51,7 +51,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPeregrine_falcon&psig=AOvVaw0clw45Jm1P0YyVTWPQKpac&ust=1707443970686000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCVx83SmoQDFQAAAAAdAAAAABAE))
+![alt text](https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPeregrine_falcon&psig=AOvVaw0clw45Jm1P0YyVTWPQKpac&ust=1707443970686000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCVx83SmoQDFQAAAAAdAAAAABAE)
 
 ## Extended Syntax
 
